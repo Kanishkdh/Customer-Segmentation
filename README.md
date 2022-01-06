@@ -4,11 +4,11 @@ Customer segmentation is the process by which you divide your customers up based
 
 These customer segmentation groups can also be used to begin discussions of building a marketing persona. This is because customer segmentation is typically used to inform a brand’s messaging, positioning and to improve how a business sells – so marketing personas need to be closely aligned to those customer segments in order to be effective.
 
-Using K-Means clustering  and hierarchical clustering to cluster the customer on the basis of their similarities.
+Using K-Means clustering  and hierarchical clustering to cluster the customer based on their similarities.
 
 CLean visualizations to help in gaining clearer insights from our data.
 
-later these customers that are clustered can be approached by the marketing team for membership card for high spending members and discount coupons for low spending customers or any another schemes.  But there will be no 100% surity of the ground truth. But with enough domain experience we can label these clusters and perform classification on the new customer.
+later these customers that are clustered can be approached by the marketing team for membership card for high spending members and discount coupons for low spending customers or any other schemes.  But there will be no 100% surity of the ground truth. But with enough domain experience we can label these clusters and perform classification on the new customer.
 
 The data is sourced from Kaggle:
 
