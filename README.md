@@ -6,7 +6,7 @@ These customer segmentation groups can also be used to begin discussions of buil
 
 Using K-Means clustering  and hierarchical clustering to cluster the customer based on their similarities.
 
-CLean visualizations to help in gaining clearer insights from our data.
+CLean visualizations to help in gaining clearer insights from data.
 
 later these customers that are clustered can be approached by the marketing team for membership card for high spending members and discount coupons for low spending customers or any other schemes.  But there will be no 100% surity of the ground truth. But with enough domain experience we can label these clusters and perform classification on the new customer.
 
